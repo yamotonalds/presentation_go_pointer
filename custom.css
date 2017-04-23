@@ -14,5 +14,8 @@
 .reveal pre code {
   font-size: 120%;
   line-height: 120%;
+
+  background-color: #f6f8fa;
+  color: #24292e;
 }
 
